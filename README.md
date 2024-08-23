@@ -70,3 +70,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
+
+## 📫 Let's Connect
+
+- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebrahim7asn@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim7asn)
+
+---
+
+I'm always eager to collaborate on exciting projects or chat about tech. Feel free to reach out if you have any opportunities or ideas!
+
+Thank you for visiting my profile! 🙌
